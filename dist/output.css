@@ -766,8 +766,16 @@ video {
   display: none;
 }
 
+.h-\[101px\] {
+  height: 101px;
+}
+
 .h-screen {
   height: 100vh;
+}
+
+.w-\[251px\] {
+  width: 251px;
 }
 
 .w-full {
@@ -1837,6 +1845,10 @@ video {
 .object-scale-down {
   -o-object-fit: scale-down;
      object-fit: scale-down;
+}
+
+.pt-52 {
+  padding-top: 13rem;
 }
 
 .text-left {
